@@ -3,6 +3,7 @@
 #### Bookmarks
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。
 - [ActionsVM](https://github.com/hmsjy2017/ActionsVM/actions) - Connect to GitHub Actions via SSH, get macOS or Linux VM for free.
+- [Reverse Remote Desktop into Windows on GitHub Actions](https://github.com/hmsjy2017/reverse-rdp-windows-github-actions)
 
 <!--
 **hmsjy2017/hmsjy2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
