@@ -5,6 +5,7 @@
 - [ActionsVM](https://github.com/hmsjy2017/ActionsVM/actions) - Connect to GitHub Actions via SSH, get macOS or Linux VM for free.
 - [Reverse Remote Desktop into Windows on GitHub Actions](https://github.com/hmsjy2017/reverse-rdp-windows-github-actions)
 - [Hexo 主题 Shoka](https://github.com/amehime/hexo-theme-shoka)
+- [支持树莓派的自编译 OpenWrt 固件](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 <!--
 **hmsjy2017/hmsjy2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
