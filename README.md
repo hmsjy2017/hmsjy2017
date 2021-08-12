@@ -11,6 +11,7 @@
 - [APT repository for extra RPi software](https://github.com/chunky-milk/raspbian-addons)
 - [Personnal Azlux's repository](https://packages.azlux.fr)
 - [mati75's private repository](https://repozytorium.mati75.eu)
+- [Additional debian repository for awesome open-source projects](https://github.com/coslyk/debianopt-repo)
 <!--
 **hmsjy2017/hmsjy2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
