@@ -6,6 +6,12 @@
 - [n-deb-packages](https://github.com/hmsjy2017/n-deb-packages): Deb packages of [n](https://github.com/tj/n).
 - [transfer-arm-packages](https://github.com/hmsjy2017/transfer-arm-packages): Deb packages of [Transfer](https://github.com/Mikubill/transfer).
 - [Aria2-Pro-Core-debs](https://github.com/hmsjy2017/Aria2-Pro-Core-debs): Deb packages of [Aria2 Pro Core](https://github.com/P3TERX/Aria2-Pro-Core).
+<!-- 
+Coming soon:
+nali https://github.com/zu1k/nali
+aliyundrive-webdav https://github.com/messense/aliyundrive-webdav
+nnn https://github.com/jarun/nnn
+--->
 
 #### Bookmarks
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。
