@@ -4,7 +4,7 @@
 - [Raspbian Addons](https://github.com/raspbian-addons/raspbian-addons): Legendary repository for Raspberry Pies which contains updated and new software.
 - [fonts](https://github.com/hmsjy2017/fonts): Deb packages of commonly used open source fonts.
 - [n-deb-packages](https://github.com/hmsjy2017/n-deb-packages): Deb packages of [n](https://github.com/tj/n).
-- [transfer-arm-packages](https://github.com/hmsjy2017/transfer-arm-packages): Deb packages of [transfer](https://github.com/Mikubill/transfer).
+- [transfer-arm-packages](https://github.com/hmsjy2017/transfer-arm-packages): Deb packages of [Transfer](https://github.com/Mikubill/transfer).
 - [Aria2-Pro-Core-debs](https://github.com/hmsjy2017/Aria2-Pro-Core-debs): Deb packages of [Aria2 Pro Core](https://github.com/P3TERX/Aria2-Pro-Core).
 
 #### Bookmarks
