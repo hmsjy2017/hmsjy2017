@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Projects I maintain
+#### Projects I mainly maintain
 - [Raspbian Addons](https://github.com/raspbian-addons/raspbian-addons): Legendary repository for Raspberry Pies which contains updated and new software.
 - [fonts](https://github.com/hmsjy2017/fonts): Deb packages of commonly used open source fonts.
 - [n-deb-packages](https://github.com/hmsjy2017/n-deb-packages): Deb packages of [n](https://github.com/tj/n).
