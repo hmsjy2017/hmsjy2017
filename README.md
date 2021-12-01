@@ -13,7 +13,7 @@ aliyundrive-webdav https://github.com/messense/aliyundrive-webdav
 BBDown https://github.com/nilaoda/BBDown
 dragonwell8 https://github.com/alibaba/dragonwell8。
     other versions: https://dragonwell-jdk.io
-Need compile
+Need to compile
 nushell https://github.com/nushell/nushell
 nvui https://github.com/rohit-px2/nvui
 nnn https://github.com/jarun/nnn
