@@ -24,7 +24,7 @@ mgba https://github.com/mgba-emu/mgba
 - [ActionsVM](https://github.com/hmsjy2017/ActionsVM/actions) - Connect to GitHub Actions via SSH, get macOS or Linux VM for free.
 - [Hexo 主题 Shoka](https://github.com/amehime/hexo-theme-shoka)
 - [支持树莓派的自编译 OpenWrt 固件](https://github.com/SuLingGG/OpenWrt-Rpi)
-- [Hax.co.id](https://hax.co.id)- Linux VM for Everyone
+- [Hax.co.id](https://hax.co.id) - Linux VM for Everyone
 
 #### Useful APT repos
 - [APT repository for extra RPi software](https://github.com/raspbian-addons/raspbian-addons)
