@@ -2,7 +2,7 @@
 
 #### Projects I mainly maintain
 - [Raspbian Addons](https://github.com/raspbian-addons/raspbian-addons): Legendary repository for Raspberry Pies which contains updated and new software.
-- [Google Mirrors]()
+- [Google Mirrors](https://github.com/Heroic-Studio/Google-Mirrors): Useful mirrors for Chinese developers.
 
 #### Useful APT repos
 - [APT repository for extra RPi software](https://github.com/raspbian-addons/raspbian-addons)
