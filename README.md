@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmsjy2017%2Fhmsjy2017&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### Projects I mainly maintain
 - [Raspbian Addons](https://github.com/raspbian-addons/raspbian-addons): Legendary repository for Raspberry Pies which contains updated and new software.
 - [Google Mirrors](https://github.com/Heroic-Studio/Google-Mirrors): Useful mirrors for Chinese developers.
